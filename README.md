@@ -6,7 +6,7 @@ This repository hosts the codebase accompanying the article *Meet-in-the-midL: t
 A recent version of Sagemath (>= 10.5) is required. The computations are accelerated using pari.gp, which is bundled with Sagemath by default.
 
 ### Configuration
-By default, the experiments utilise the library ... for computing the supersingular $L$-isogeny graph(s) $G_{p, L}$. Full guidance for configuring this package may be found within this directory.
+By default, the experiments utilise the library [Isogeny](https://github.com/JamesRickards-Canada/Isogeny/) for computing the supersingular $L$-isogeny graph(s) $G_{p, L}$. Full guidance for configuring this package may be found within this directory.
 
 In short, run
 ```bash
